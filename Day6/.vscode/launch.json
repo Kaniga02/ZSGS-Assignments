@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PaymentGateWay",
+            "request": "launch",
+            "mainClass": "PaymentGateWay",
+            "projectName": "Day6_930089c1"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "Task2.mainapp.MainApp",
+            "projectName": "Day6_930089c1"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "Task3",
+            "projectName": "Day6_930089c1"
+        },
+        {
+            "type": "java",
+            "name": "MainApp(1)",
+            "request": "launch",
+            "mainClass": "TravelBookingSystem.MainApp",
+            "projectName": "Day6_930089c1"
+        },
+        {
+            "type": "java",
+            "name": "Task3(1)",
+            "request": "launch",
+            "mainClass": "TravelBookingSystem.Task3",
+            "projectName": "Day6_930089c1"
+        }
+    ]
+}

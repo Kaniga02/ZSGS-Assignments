@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "Bank.BankAccount",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "Task3",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "WordSplitter",
+            "request": "launch",
+            "mainClass": "WordSplitter",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CheckInstanceObject",
+            "request": "launch",
+            "mainClass": "CheckInstanceObject",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "ComparisonOperator",
+            "request": "launch",
+            "mainClass": "ComparisonOperator",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "Day2.DecimalToBinary",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "GradeOfTheStudent",
+            "request": "launch",
+            "mainClass": "Day2.GradeOfTheStudent",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "MinimumOfThreeNumbers",
+            "request": "launch",
+            "mainClass": "Day2.MinimumOfThreeNumbers",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEvenNumbers",
+            "request": "launch",
+            "mainClass": "Day2.SumOfEvenNumbers",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "ExplicitTypeCasting",
+            "request": "launch",
+            "mainClass": "ExplicitTypeCasting",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "FirstBitNumber",
+            "request": "launch",
+            "mainClass": "FirstBitNumber",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "MaxOfTwoNumbers",
+            "request": "launch",
+            "mainClass": "MaxOfTwoNumbers",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "OrderOfExecution",
+            "request": "launch",
+            "mainClass": "OrderOfExecution",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "PowerOf2",
+            "request": "launch",
+            "mainClass": "PowerOf2",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        }
+    ]
+}
