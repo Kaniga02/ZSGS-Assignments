@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "Day5.HospitalManagement.MainApp",
+            "projectName": "ZSGS-ASSIGNMENT_15ea8428"
+        },
+        {
+            "type": "java",
             "name": "BankAccount",
             "request": "launch",
             "mainClass": "Bank.BankAccount",

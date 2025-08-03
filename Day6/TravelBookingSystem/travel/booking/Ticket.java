@@ -2,6 +2,8 @@ package TravelBookingSystem.travel.booking;
 
 public class Ticket {
     private int ticketId;
+
+    
     private String designation;
     private double fare;
 

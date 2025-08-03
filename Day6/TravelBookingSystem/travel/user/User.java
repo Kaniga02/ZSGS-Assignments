@@ -1,4 +1,6 @@
-package TravelBookingSystem.travel.booking;
+package TravelBookingSystem.travel.user;
+
+import TravelBookingSystem.travel.booking.Ticket;
 
 public class User {
     private String name;
@@ -13,5 +15,7 @@ public class User {
     public void bookTicket()
     {
         System.out.println("Booking Ticket for "+name);
+         Ticket t = new Ticket(12345, "Chennai", 600.00);
+        t.displayTicket();
     }
 }
