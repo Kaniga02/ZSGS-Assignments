@@ -22,6 +22,7 @@ public class Task3 {
         System.out.println("-----------------");
         
         System.out.println("Monthly Salary : Rs."+emp.calculateSalary());
+        sc.close();
         
     }
 }

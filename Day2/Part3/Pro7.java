@@ -15,7 +15,7 @@ Constraints:
 0 <= s.length <= 300
 s consists of lowercase and uppercase English letters, digits, or one of the following characters "!@#$%^&*()_+-=',.:"
 The only space character in s is ' '. */
-package Day2.Part3;
+package Part3;
 
 public class Pro7 {
     public static void main(String[] args)

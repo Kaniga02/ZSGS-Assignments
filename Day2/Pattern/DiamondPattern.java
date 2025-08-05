@@ -1,5 +1,7 @@
 package Pattern;
 
+import java.util.Scanner;
+
 public class DiamondPattern {
 
     public static void main(String[] args) {
@@ -48,7 +50,9 @@ public class DiamondPattern {
             int j=1;
 
            while (j < i) {
-                System.out.print(num + " ");
+                System.out.print(
+                    
+                num + " ");
                 num++;
                 j++;
             }

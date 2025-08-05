@@ -1,5 +1,5 @@
 //Write a program that creates an integer array of 10 elements, accepts values of arrays and Find the sum of all odd numbers.
-package Day2.Part2;
+package Part2;
 import java.util.*;
 public class SumofOddNumbers
 {

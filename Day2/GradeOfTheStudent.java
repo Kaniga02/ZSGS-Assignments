@@ -1,4 +1,4 @@
-package Day2;
+
 
 public class GradeOfTheStudent {
     public static void main(String[] args)

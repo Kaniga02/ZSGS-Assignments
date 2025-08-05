@@ -1,3 +1,6 @@
+package Pattern;
+
+
 import java.util.*;
 
 public class Program3B {

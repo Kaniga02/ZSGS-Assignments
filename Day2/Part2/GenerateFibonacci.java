@@ -1,6 +1,6 @@
 // Write a program which generates 30 terms of Fibonacci no in an array and then prints it.
 
-package Day2.Part2;
+package Part2;
 
 public class GenerateFibonacci {
     public static void main(String[] args)

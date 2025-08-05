@@ -1,6 +1,6 @@
 //Write a program to initialize the following character arrays and print a suitable message after checking the arrays whether the two arrays are identical or not. Make suitable use of Boolean data type. X[] =('m', 'n', 'o', 'p'} and Y[] =('m', 'n', 'o', 'p' }
 //X[] =('m', 'n', 'o', 'p'} and Y[] =('m', 'n', 'o', 'p' }
-package Day2.Part2;
+package Part2;
 
 public class TwoArraySameorNot {
         public static void main(String[] args)

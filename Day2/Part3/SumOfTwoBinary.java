@@ -1,4 +1,4 @@
-package Day2.Part3;
+package Part3;
 
 public class SumOfTwoBinary {
     public static void main(String[] args)

@@ -13,7 +13,7 @@ Output: "leotcede"
 Constraints:
 1 <= s.length <= 3 * 10^5
 s consist of printable ASCII characters. */
-package Day2.Part3;
+package Part3;
 
 import java.util.*;
 

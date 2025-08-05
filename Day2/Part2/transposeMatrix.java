@@ -5,7 +5,7 @@
 ● To display row-wise sum of matrix of size m x n
 ● To display column-wise sum of matrix of size m x n
 ● To create transpose of matrix of size n x m*/
-package Day2.Part2;
+package Part2;
 
 import java.util.*;
 

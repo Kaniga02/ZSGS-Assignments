@@ -18,7 +18,7 @@ Constraints:
 1 <= num1.length, num2.length <= 10^4
 num1 and num2 consist of only digits.
 num1 and num2 don't have any leading zeros except for the zero itself. */
-package Day2.Part3;
+package Part3;
 
 public class Pro6 {
     public static void main(String[] args)

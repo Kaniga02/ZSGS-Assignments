@@ -9,7 +9,7 @@ Output: true
 Example 2:
 Input: s = "axc", t = "ahbgdc"
 Output: false*/
-package Day2.Part3;
+package Part3;
 
 public class Pro5 {
     public static void main(String[] args)

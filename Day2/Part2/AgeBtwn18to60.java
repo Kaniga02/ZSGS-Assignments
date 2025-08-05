@@ -1,4 +1,4 @@
-package Day2.Part2;
+package Part2;
 
 public class AgeBtwn18to60 {
     public static void main(String[] args)

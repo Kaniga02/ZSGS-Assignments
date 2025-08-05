@@ -1,5 +1,5 @@
 //Write a program to take in 10 values and print only those numbers which are prime.
-package Day2.Part2;
+package Part2;
 
 public class FindPrimeNumbers {
     public static void main(String[] args)

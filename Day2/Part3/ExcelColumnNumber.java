@@ -1,5 +1,5 @@
 //Given an integer columnNumber, return its corresponding column title as it appears in an Excel sheet.
-package Day2.Part3;
+package Part3;
 
 public class ExcelColumnNumber {
     public static void main(String[] args)

@@ -1,5 +1,5 @@
 
-
+package Pattern;
 import java.util.*;
 
 public class PrintR {
